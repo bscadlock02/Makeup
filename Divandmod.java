@@ -12,5 +12,6 @@ public class Divandmod {
         int sum2 = (num % num2);
         System.out.println(num  + "/" + num2 + "=" + sum);
         System.out.println(num  + "%" + num2 + "=" + sum2);
+        input.close();
 }
 }
